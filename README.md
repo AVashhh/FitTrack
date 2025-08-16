@@ -2,7 +2,7 @@
 
 A Flask-based web application that helps users manage their health through personalized **food and exercise recommendations**, **calorie tracking**, **hydration reminders**, and **weekly reports**. The system integrates MySQL stored procedures, functions, and views for robust backend logic and data handling.
 
----
+
 
 ## What It Does
 
@@ -24,7 +24,7 @@ A Flask-based web application that helps users manage their health through perso
 - 🛠️ **Admin Dashboard**  
   Admins can add, edit, and delete food and workout items, manage allergies and regions, and view user statistics through an SQL view.
 
----
+
 
 ## Tech Stack
 
@@ -34,7 +34,7 @@ A Flask-based web application that helps users manage their health through perso
 - **ORM**: SQLAlchemy  
 - **Security**: Werkzeug (password hashing)
 
----
+
 
 ## Highlights
 
@@ -43,4 +43,4 @@ A Flask-based web application that helps users manage their health through perso
 - Generates real-time and weekly **health insights**
 - Includes a functional and modular **admin interface**
 
----
+
